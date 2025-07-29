@@ -33,7 +33,7 @@ This entire process is repeated for a set number of iterations, and the best sol
 You can compile the source code using a standard C++ compiler like g++.
 
 ```bash
-g++ -std=c++11 -o solver hw3.cpp
+g++ -std=c++11 -o solver GRASP.cpp
 ```
 
 ### Execution
